@@ -28,8 +28,6 @@ class Solution {
             two++;
             i++;
         }
-
-        
         
         for (int t = 0; t < m+n; t++) {
             nums1[t] = arr[t];
